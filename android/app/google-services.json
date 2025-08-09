@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474531759051",
+    "project_id": "intruder-295dd",
+    "storage_bucket": "intruder-295dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474531759051:android:9db39f4ff2d7d609152c4e",
+        "android_client_info": {
+          "package_name": "com.example.authentifaction_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474531759051-615rje85uv598fa7r94ltrn1r33fi3om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentifaction_app",
+            "certificate_hash": "3779aeb4560a060d79a89d93d6f1be49dfc12bc8"
+          }
+        },
+        {
+          "client_id": "474531759051-gba0iogsob53p72uaaa7jglh4q9rrlt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV9Spw-D3Ps17Azb6ik7_AKi-i0qI8Bzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474531759051-gba0iogsob53p72uaaa7jglh4q9rrlt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
