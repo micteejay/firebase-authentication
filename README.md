@@ -2,6 +2,8 @@
 
 A Flutter-based security camera monitoring application that allows users to view and manage security camera images with real-time notifications.
 
+> Full documentation is available in the [`docs/` directory](docs/README.md).
+
 ## 🚀 Features
 
 ### 🔐 Authentication
@@ -121,6 +123,7 @@ lib/
 │   ├── auth_screen.dart      # Login/signup screen
 │   ├── dashboard_screen.dart # Main gallery screen
 │   ├── profile_screen.dart   # User profile management
+│   ├── overview_screen.dart  # Verification complete screen
 │   └── splash_screen.dart    # Loading screen
 ├── services/
 │   ├── notification_service.dart    # OneSignal & local notifications
@@ -278,14 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 - **Email**: [your-email@example.com]
 - **Issues**: [GitHub Issues](https://github.com/your-username/firebase-authentication/issues)
-- **Documentation**: [Project Wiki](https://github.com/your-username/firebase-authentication/wiki)
-
-## 🙏 Acknowledgments
-
-- **Flutter Team** for the amazing framework
-- **Firebase** for authentication and backend services
-- **OneSignal** for push notification services
-- **Flutter Community** for excellent packages
+- **Documentation**: [`docs/`](docs/README.md)
 
 ---
 
